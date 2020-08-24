@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <Configuration>Release</Configuration>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="D:\work\Core\runtime\src\tests\Common\CoreCLRTestLibrary\CoreCLRTestLibrary.csproj" />
+  </ItemGroup>
+
+</Project>
